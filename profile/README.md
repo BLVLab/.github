@@ -1,1 +1,1 @@
-# Hello, this is BLV Lab in Peking University, nice to meet you!
+# Hello, this is BLV Lab, nice to meet you!
